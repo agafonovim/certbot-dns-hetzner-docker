@@ -1,2 +1,2 @@
 # certbot-dns-hetzner-docker
-Dockerized Hetzner DNS Authenticator plugin for Certbot
+Dockerized Hetzner DNS Authenticator plugin with Certbot
